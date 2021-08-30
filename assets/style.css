@@ -1,0 +1,33 @@
+
+/* timer styling */
+.timer-box {
+  position: absolute;
+  top: 15px;
+  right: 0;
+  width: 200px;
+  height: 100px;
+  color: rgb(128, 45, 128);
+  text-align: center;
+}
+
+/* multiple choice buttons styling */
+button {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: row;
+  border-color: purple;
+  background-color: purple;
+  color: white;
+  border-radius: 5px;
+  text-align: center;
+}
+
+button:hover {
+  background-color: aqua;
+  color: purple;
+}
+
+li {
+  list-style-type: none;
+}
