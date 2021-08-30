@@ -10,6 +10,27 @@
   text-align: center;
 }
 
+/* start button styling */
+.button-centered {
+  margin: auto;
+  text-align: center;
+  border-radius: 15px;
+  border-color: purple;
+  border-width: 200px;
+  padding: 10px;
+  
+}
+
+/* intro styling */
+.intro-center {
+  text-align: center;
+}
+
+/* question styling */
+.title-centered {
+  text-align: center;
+}
+
 /* multiple choice buttons styling */
 button {
   display: flex;
@@ -30,4 +51,13 @@ button:hover {
 
 li {
   list-style-type: none;
+}
+
+.choice-box {
+  margin-left: 440px;
+}
+
+/* score styling */
+.youScored-center {
+  text-align: center;
 }
