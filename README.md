@@ -16,8 +16,8 @@ Used to practice basic javascript principals and functionality as well as hone C
 
 ## Deployed Application
 
-[Code Quizzer] (https://mannyportillo11.github.io/codeQuizzer/)
+[Code Quizzer](https://mannyportillo11.github.io/codeQuizzer/)
 
 ## Contributors
 
-[Manny Portillo] (https://github.com/mannyportillo11)
+[Manny Portillo](https://github.com/mannyportillo11)
